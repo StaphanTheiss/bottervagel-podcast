@@ -9,12 +9,12 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Daily Briefing 22. Juni 2026</title>
-      <description>KI-Markt: ChatGPT unter 50% Marktanteil. Microsoft 365 Preiserhoehung ab Juli. Verwaltungsdigitalisierung: nur 11% der OZG-Leistungen digital. SpaceX kauft Cursor fuer 60 Mrd. USD.</description>
+      <title>Sonderausgabe 22 Juni 2026 Rueckblick 9 bis 22 Juni</title>
+      <description>KI-Souveraenitat wird politische Realitaet. Microsoft 365 Preiserhoehung ab Juli. Verwaltungsdigitalisierung nur 11 Prozent digital. ChatGPT unter 50 Prozent Marktanteil. SpaceX kauft Cursor fuer 60 Mrd USD. Loop Engineering als neue KI-Methodik.</description>
       <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">bottervagel-briefing-2026-06-22</guid>
-      <enclosure url="https://bottervagelberatungsundbete-my.sharepoint.com/:u:/g/personal/st_bottervagel_de/IQC8u6RFVnklT7Ag6VO3oxo3AXIVGCbPnxsdsUdu1I0JAZg?e=FhRqv2" type="audio/mpeg" length="2581777"/>
-      <itunes:duration>03:30</itunes:duration>
+      <guid isPermaLink="false">bottervagel-briefing-2026-06-22-sonder</guid>
+      <enclosure url="https://bottervagelberatungsundbete-my.sharepoint.com/:u:/g/personal/st_bottervagel_de/IQC8u6RFVnklT7Ag6VO3oxo3AXIVGCbPnxsdsUdu1I0JAZg?e=FhRqv2" type="audio/mpeg" length="6547792"/>
+      <itunes:duration>06:45</itunes:duration>
     </item>
   </channel>
 </rss>
