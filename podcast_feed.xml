@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bottervagel Daily Briefing</title>
     <description>Taeglicher Markt- und Technologie-Ueberblick fuer das Produktmanagement der Bottervagel GmbH. Erstellt von Searchy.</description>
     <link>https://staphantheiss.github.io/bottervagel-podcast/</link>
     <language>de</language>
-    <itunes:author>Searchy Bottervagel GmbH</itunes:author>
+    <itunes:author>Searchy - Bottervagel GmbH</itunes:author>
+    <itunes:summary>Taeglicher Markt- und Technologie-Ueberblick fuer das Produktmanagement der Bottervagel GmbH.</itunes:summary>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Sonderausgabe 22 Juni 2026 Rueckblick 9 bis 22 Juni</title>
-      <description>KI-Souveraenitat wird politische Realitaet. Microsoft 365 Preiserhoehung ab Juli. Verwaltungsdigitalisierung nur 11 Prozent digital. ChatGPT unter 50 Prozent Marktanteil. SpaceX kauft Cursor fuer 60 Mrd USD. Loop Engineering als neue KI-Methodik.</description>
+      <title>Sonderausgabe - 22. Juni 2026</title>
+      <description>Rueckblick 9.-22. Juni 2026: KI-Markt, Microsoft 365, Verwaltungsdigitalisierung, GovTech und strategische Implikationen fuer Bottervagel.</description>
       <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
-      <guid isPermaLink="false">bottervagel-briefing-2026-06-22-sonder</guid>
-      <enclosure url="https://bottervagelberatungsundbete-my.sharepoint.com/:u:/g/personal/st_bottervagel_de/IQC8u6RFVnklT7Ag6VO3oxo3AXIVGCbPnxsdsUdu1I0JAZg?e=FhRqv2" type="audio/mpeg" length="6547792"/>
-      <itunes:duration>06:45</itunes:duration>
+      <guid isPermaLink="false">bottervagel-briefing-2026-06-22-sonderausgabe</guid>
+      <enclosure url="https://staphantheiss.github.io/bottervagel-podcast/briefing-2026-06-22.mp3.mp3" type="audio/mpeg" length="6547792"/>
+      <itunes:duration>07:00</itunes:duration>
     </item>
   </channel>
 </rss>
