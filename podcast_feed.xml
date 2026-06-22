@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Bottervagel Daily Briefing</title>
+    <description>Taeglicher Markt- und Technologie-Ueberblick fuer das Produktmanagement der Bottervagel GmbH. Erstellt von Searchy.</description>
+    <link>https://staphantheiss.github.io/bottervagel-podcast/</link>
+    <language>de</language>
+    <itunes:author>Searchy Bottervagel GmbH</itunes:author>
+    <itunes:category text="Business"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Daily Briefing 22. Juni 2026</title>
+      <description>KI-Markt: ChatGPT unter 50% Marktanteil. Microsoft 365 Preiserhoehung ab Juli. Verwaltungsdigitalisierung: nur 11% der OZG-Leistungen digital. SpaceX kauft Cursor fuer 60 Mrd. USD.</description>
+      <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">bottervagel-briefing-2026-06-22</guid>
+      <enclosure url="https://bottervagelberatungsundbete-my.sharepoint.com/:u:/g/personal/st_bottervagel_de/IQC8u6RFVnklT7Ag6VO3oxo3AXIVGCbPnxsdsUdu1I0JAZg?e=FhRqv2" type="audio/mpeg" length="2581777"/>
+      <itunes:duration>03:30</itunes:duration>
+    </item>
+  </channel>
+</rss>
